@@ -1,0 +1,1 @@
+from .diskon import buy as jl
